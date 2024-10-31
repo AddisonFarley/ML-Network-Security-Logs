@@ -4,7 +4,7 @@ This project utilizes machine learning models to detect anomalies and potential 
 
 ## Data Used
 
-[Network Intrusion dataset(CIC-IDS- 2017)](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset) 
+[Network Intrusion dataset (CIC-IDS- 2017)](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset) 
 
 ## Libraries Used
 
