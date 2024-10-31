@@ -4,10 +4,9 @@ This project utilizes machine learning models to detect anomalies and potential 
 
 ## Libraries Used
 
-The following libraries are used for data processing, machine learning, and visualization:
+The following Python libraries were used for data processing, machine learning, and visualization:
 
-'python
-
+```
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -16,7 +15,8 @@ from sklearn.cluster import KMeans
 from sklearn.ensemble import RandomForestClassifier, IsolationForest
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, confusion_matrix, roc_curve
 import matplotlib.pyplot as plt
-import seaborn as sns'
+import seaborn as sns
+```
 
 ## Data Preprocessing
 
