@@ -2,6 +2,10 @@
 
 This project utilizes machine learning models to detect anomalies and potential intrusions in network traffic data.
 
+## Data Used
+
+[Network Intrusion dataset(CIC-IDS- 2017)](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset) 
+
 ## Libraries Used
 
 The following libraries are used for data processing, machine learning, and visualization:
