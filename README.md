@@ -8,6 +8,8 @@ This project utilizes machine learning models to detect anomalies and potential 
 
 ## Libraries Used
 
+To install: !pip install pandas numpy sklearn matplotlib seaborn
+
 The following Python libraries were used for data processing, machine learning, and visualization:
 
 ```
@@ -29,10 +31,8 @@ K-means Clustering
 
 ## ML Models Used
 
-K-means is applied to identify patterns that could indicate normal vs. anomalous network traffic. Evaluation metrics include accuracy, precision, recall, and F1-score.
-Random Forest Classifier
+K-means was evaluated to identify patterns that could indicate normal vs. anomalous network traffic. Evaluation metrics include accuracy, precision, recall, and F1-score.
 
-A Random Forest classifier is trained for classification between normal and anomalous traffic, achieving high accuracy with precision, recall, F1-score, and ROC-AUC as evaluation metrics.
-Isolation Forest
+A Random Forest classifier was evaluated for classification between normal and anomalous traffic, achieving high accuracy with precision, recall, F1-score, and ROC-AUC as evaluation metrics.
 
-Isolation Forest is used as an unsupervised anomaly detection model, isolating potential anomalies without relying on labeled data. Evaluation metrics include accuracy, precision, recall, F1-score, and ROC-AUC.
+Isolation Forest was evaluated as an unsupervised anomaly detection model, isolating potential anomalies without relying on labeled data. Evaluation metrics include accuracy, precision, recall, F1-score, and ROC-AUC.
